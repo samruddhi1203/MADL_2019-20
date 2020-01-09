@@ -1,2 +1,2 @@
 # MADL_2019-20
-This repository is created for uploading android lab experiments
+This repository created for uploading source code of Android apps developed by Students during practical sessions of Android app development course.
